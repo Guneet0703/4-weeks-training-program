@@ -1,0 +1,79 @@
+# Day 01 – Task Log
+
+## Objective
+
+To understand the fundamentals of HTML and build a strong foundation by learning the basic structure of an HTML document, essential tags, and commonly used HTML elements through hands-on practice.
+
+---
+
+## Topics Covered
+
+* HTML Introduction
+* HTML Boilerplate
+* Headings (`<h1>` to `<h6>`)
+* Basic HTML Tags
+* Semantic and Non-Semantic Tags
+* Inline and Block Elements
+* Subscript and Superscript
+* Hyperlinks
+* Images
+* Multimedia Elements (Audio, Video, and Iframe)
+* Lists (Ordered, Unordered, and Description Lists)
+
+---
+
+## Tasks Assigned
+
+| Sr. No. | Task                                                | File Name            |
+| ------: | --------------------------------------------------- | -------------------- |
+|       1 | Create an HTML boilerplate                          | `boilerplate.html`   |
+|       2 | Practice HTML headings and basic tags               | `headings.html`      |
+|       3 | Implement semantic and non-semantic tags            | `semantic-tags.html` |
+|       4 | Practice inline and block elements                  | `inline-block.html`  |
+|       5 | Use subscript and superscript tags                  | `sub-super.html`     |
+|       6 | Create hyperlinks and add images                    | `links-images.html`  |
+|       7 | Practice multimedia elements (audio, video, iframe) | `multimedia.html`    |
+|       8 | Create ordered, unordered, and description lists    | `lists.html`         |
+
+---
+
+## Work Completed
+
+Successfully created and tested multiple HTML files to practice the concepts covered during the training session. Implemented the HTML boilerplate, experimented with various text formatting and structural tags, created hyperlinks, embedded images and multimedia, and practiced different types of lists. Each concept was implemented individually to strengthen practical understanding.
+
+---
+
+## Skills Practiced
+
+* HTML5
+* Web Page Structure
+* HTML Elements and Tags
+* Semantic Markup
+* Multimedia Integration
+* List Creation
+* Hyperlinking
+* Basic Web Development
+
+---
+
+## Learning Outcomes
+
+* Understood the basic structure of an HTML document.
+* Learned the purpose of commonly used HTML tags.
+* Differentiated between semantic and non-semantic elements.
+* Understood the difference between inline and block-level elements.
+* Learned to insert images, hyperlinks, audio, video, and iframes into a webpage.
+* Gained practical experience in creating different types of lists.
+* Improved confidence in building simple HTML web pages.
+
+---
+
+## Challenges & Solutions
+
+No major challenges were encountered during today's session. Minor syntax-related mistakes were identified and corrected through practice, helping improve understanding of HTML structure and tag usage.
+
+---
+
+## Conclusion
+
+Today's training session established a solid foundation in HTML by covering its core concepts and practical implementation. Completing hands-on exercises for each topic improved my understanding of webpage structure and prepared me for more advanced HTML concepts in the upcoming sessions.
