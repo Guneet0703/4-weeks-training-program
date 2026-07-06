@@ -1,0 +1,102 @@
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+
+        body{
+            background:rgb(127, 197, 243);
+            font-family:Arial, sans-serif;
+            padding:20px;
+        }
+
+        .container{
+            width:90%;
+            margin:auto;
+            max-width:1200px;
+            border:2px solid black;
+        }
+
+        /* Header */
+        .header{
+            background:rgb(217, 3, 164);
+            height:70px;
+
+            display:flex;
+            justify-content:center;
+            align-items:center;
+
+            font-size:30px;
+            font-weight:bold;
+        }
+
+        /* Middle Section */
+        .main{
+            display:flex;
+            height:500px;
+        }
+
+        /* Left Sidebar */
+        .aside1{
+            flex:1;
+            background:rgb(114, 240, 229);
+
+            display:flex;
+            justify-content:center;
+            align-items:flex-start;
+
+            padding-top:20px;
+            font-weight:bold;
+        }
+
+        /* Main Content */
+        .content{
+            flex:3;
+            background:rgb(183, 255, 0);
+            padding:20px;
+            text-align:justify;
+            
+        }
+
+        /* Right Sidebar */
+        .aside2{
+            flex:1;
+            background:rgb(83, 64, 253);
+
+            display:flex;
+            justify-content:center;
+            align-items:flex-start;
+
+            padding-top:20px;
+            font-weight:bold;
+        }
+
+        /* Footer */
+        .footer{
+            background:rgb(213, 155, 73);
+            height:70px;
+
+            display:flex;
+            justify-content:center;
+            align-items:center;
+
+            font-size:30px;
+            font-weight:bold;
+        }
+        @media(max-width:768px){
+            .main{
+                flex-direction:column;
+            
+            }
+            .aside1,.content,.aside2{
+                width:100%;
+
+            }
+            .aside1,.aside2{
+                height:80px;
+
+            }
+            .content{
+                min-height:300px;
+            }
+        }
