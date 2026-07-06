@@ -28,9 +28,8 @@ To understand the fundamentals of CSS and learn how to style HTML elements using
 | ------: | ---------------------------------------------------------------------------------------- | -------------------- |
 |       1 | Apply CSS using inline, internal, and external stylesheets                               | `css-basics.html`    |
 |       2 | Practice different CSS selectors                                                         | `selectors.html`     |
-|       3 | Create a styled webpage using basic CSS properties                                       | `basic-styling.html` |
-|       4 | Practice the CSS Box Model, including margin, border, padding, content, and `box-sizing` | `box-model.html`     |
-|       5 | Demonstrate different display properties (`block`, `inline`, `inline-block`, and `none`) | `display.html`       |
+|       3 | Practice the CSS Box Model, including margin, border, padding, content, and `box-sizing` | `box-model.html`     |
+|       4 | Demonstrate different display properties (`block`, `inline`, `inline-block`, and `none`) | `display.html`       |
 
 ---
 

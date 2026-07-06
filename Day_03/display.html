@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Property Demo</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+        }
+
+        h2{
+            color: darkblue;
+        }
+
+        .box{
+            width: 150px;
+            height: 60px;
+            background-color: lightblue;
+            border: 2px solid black;
+            margin: 10px;
+            padding: 10px;
+        }
+
+        .block{
+            display: block;
+        }
+
+        .inline{
+            display: inline;
+        }
+
+        .inline-block{
+            display: inline-block;
+        }
+
+        .none{
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>CSS Display Property</h1>
+
+    <h2>1. Block</h2>
+    <div class="box block">Box 1</div>
+
+    <h2>2. Inline</h2>
+    <span class="box inline">Box 1</span>
+
+    <h2>3. Inline-Block</h2>
+    <div class="box inline-block">Box 1</div>
+
+    <h2>4. None</h2>
+    <div class="box none">You can't see me!</div>
+    <p>The above box is hidden because of <code>display: none;</code>.</p>
+
+</body>
+</html>
