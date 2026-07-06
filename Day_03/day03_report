@@ -1,0 +1,75 @@
+# Day 03 – Task Report
+
+## Objective
+
+To understand the fundamentals of CSS and learn how to style HTML elements using selectors, the CSS box model, and display properties. The objective was to build a strong foundation in web page styling through practical implementation.
+
+---
+
+## Topics Covered
+
+* Introduction to CSS
+* Types of CSS (Inline, Internal, and External)
+* CSS Syntax
+* CSS Selectors
+* CSS Box Model
+* Margin
+* Border
+* Padding
+* Content Area
+* `box-sizing`
+* Display Properties (`block`, `inline`, `inline-block`, `none`)
+
+---
+
+## Tasks Assigned
+
+| Sr. No. | Task                                                                                     | File Name            |
+| ------: | ---------------------------------------------------------------------------------------- | -------------------- |
+|       1 | Apply CSS using inline, internal, and external stylesheets                               | `css-basics.html`    |
+|       2 | Practice different CSS selectors                                                         | `selectors.html`     |
+|       3 | Create a styled webpage using basic CSS properties                                       | `basic-styling.html` |
+|       4 | Practice the CSS Box Model, including margin, border, padding, content, and `box-sizing` | `box-model.html`     |
+|       5 | Demonstrate different display properties (`block`, `inline`, `inline-block`, and `none`) | `display.html`       |
+
+---
+
+## Work Completed
+
+During today's session, I explored the fundamentals of CSS and learned how to apply styles using inline, internal, and external stylesheets. I practiced different selectors to target HTML elements, implemented the CSS box model by working with margins, borders, padding, and box sizing, and experimented with various display properties to understand how elements are positioned and rendered on a webpage.
+
+---
+
+## Skills Practiced
+
+* CSS3
+* CSS Syntax
+* CSS Selectors
+* Box Model
+* Margin, Border, and Padding
+* Box Sizing
+* Display Properties
+* Basic Web Page Styling
+
+---
+
+## Learning Outcomes
+
+* Understood the role of CSS in designing and styling web pages.
+* Learned the difference between inline, internal, and external CSS.
+* Practiced using various CSS selectors effectively.
+* Gained a clear understanding of the CSS box model and its components.
+* Learned how different display properties affect the layout of HTML elements.
+* Improved practical skills in styling and organizing web page content.
+
+---
+
+## Challenges & Solutions
+
+Initially, understanding the spacing created by margin, border, and padding, along with the behavior of different display properties, was slightly challenging. By experimenting with multiple examples and observing the output in the browser, I developed a better understanding of how these properties influence webpage layout.
+
+---
+
+## Conclusion
+
+Today's session provided a solid introduction to CSS and its essential styling concepts. Through practical exercises involving selectors, the box model, and display properties, I gained valuable experience in creating well-structured and visually appealing web pages, preparing me for more advanced CSS topics in the upcoming sessions.
