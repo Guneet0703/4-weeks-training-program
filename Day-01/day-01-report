@@ -26,7 +26,7 @@ To understand the fundamentals of HTML and build a strong foundation by learning
 
 | Sr. No. | Task                                                | File Name            |
 | ------: | --------------------------------------------------- | -------------------- |
-|       1 | Create an HTML boilerplate                          | `boilerplate.html`   |
+|       1 | Create an HTML boilerplate and basics of html       | `boilerplate.html`   |
 |       2 | Practice HTML headings and basic tags               | `headings.html`      |
 |       3 | Implement semantic and non-semantic tags            | `semantic-tags.html` |
 |       4 | Practice inline and block elements                  | `inline-block.html`  |

@@ -1,0 +1,68 @@
+# Day 05 – Task Log
+
+## Objective
+
+To understand how CSS can be used to create interactive and visually appealing web pages through animations, transitions, and transforms. These concepts help enhance the user experience by making web elements more dynamic and responsive to user interactions.
+
+---
+
+## Topics Covered
+
+* Introduction to CSS Animations
+* The `@keyframes` Rule
+* Animation Properties
+* CSS Transitions
+* Transition Properties
+* CSS Transforms
+* Practical Applications of Animations, Transitions, and Transforms in Web Design
+
+---
+
+## Tasks Assigned
+
+| Sr. No. | Task | File Name |
+| ------: | ---------------------------------------------------- | ------------------ |
+| 1 | Practice CSS Animations using the `@keyframes` rule | `animation.html` |
+| 2 | Implement smooth effects using CSS Transitions | `transition.html` |
+| 3 | Practice transformation techniques such as rotation, scaling, translation, and skewing | `transforms.html` |
+
+---
+
+## Work Completed
+
+Successfully created separate HTML and CSS programs to practice animations, transitions, and transforms. Implemented animations using the `@keyframes` rule, created smooth visual effects using transitions, and experimented with transformation functions such as rotation, scaling, translation, and skewing. All programs were executed and tested in Visual Studio Code and a web browser.
+
+---
+
+## Skills Practiced
+
+* CSS3
+* CSS Animations
+* CSS Transitions
+* CSS Transforms
+* Interactive Web Design
+* User Interface Enhancement
+* Modern Front-End Development
+
+---
+
+## Learning Outcomes
+
+* Understood the purpose and applications of CSS animations, transitions, and transforms.
+* Learned how to create animations using the `@keyframes` rule.
+* Gained practical experience with various animation and transition properties.
+* Learned how transformation functions can modify the position, size, and orientation of elements.
+* Understood the differences between animations, transitions, and transforms.
+* Improved confidence in creating interactive and visually appealing web pages.
+
+---
+
+## Challenges & Solutions
+
+Initially found it difficult to understand when to use animations, transitions, and transforms and how their properties interact with one another. Through experimentation and repeated practice, the concepts became clearer and easier to implement.
+
+---
+
+## Conclusion
+
+Today's session introduced important CSS features that are widely used in modern front-end development to improve user interaction and visual presentation. Practicing these concepts through individual programs strengthened my understanding and provided valuable hands-on experience in creating dynamic and engaging web interfaces.

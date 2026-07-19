@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation</title>
+
+    <style>
+        *{
+        margin:0px;
+        padding:0px;
+        box-sizing:border-box;
+        }
+
+        .container{
+            width: 100vw;
+            height:100vh;
+            border: solid 8px orange;
+            background-color: beige;
+        }
+         .box_1{
+            width:250px;
+            height:50px;
+            position: absolute;
+            background-color:lightblue;
+            margin-top: 10px;
+            margin-left: 10px;
+            border-radius: 6px;
+            border:solid blue 2px;
+            animation-name: boxMoves;
+            animation-delay: 2s;
+            animation-iteration-count: infinite;
+            animation-direction:normal;
+            animation-duration: 5s;
+            animation-timing-function:linear;
+            animation-play-state: running;
+         }
+    
+
+        @keyframes boxMoves{
+            from{
+                top:0;
+                left:0;
+            }
+            to{
+                top:0;
+                left:940px;
+
+            }
+        }
+
+        .box_2{
+            width:250px;
+            height:50px;
+            position:relative;
+            background-color:lightblue;
+            margin-top: 10px;
+            margin-left: 10px;
+            border-radius: 6px;
+            border:solid blue 2px;
+            animation-name: box2_Moves;
+            animation-delay: 2s;
+            animation-iteration-count: infinite;
+            animation-direction: normal;
+            animation-duration: 5s;
+            animation-timing-function:linear;
+            animation-play-state: running;
+        }
+
+        @keyframes box2_Moves{
+            from{
+                top:508px;
+                left:900px;
+            }
+            to{
+                top:508px;
+                left:0px;
+
+            }
+        }
+
+        #circle{
+            width:40px;
+            height:40px;
+            position:relative;
+            background-color:rgb(235, 235, 98);
+            border-radius: 20px;
+            border:solid orangered 2px;
+            animation-name: circle_Moves;
+            animation-delay: 2s;
+            animation-iteration-count: infinite;
+            animation-direction:normal;
+            animation-duration: 5s;
+            animation-timing-function:linear;
+            animation-play-state: running;
+        }
+
+        @keyframes circle_Moves{
+            0%{
+                top:5px;
+                left:120px;
+            }
+            30%{
+                top:300px;
+                left:300px;
+
+            }
+            60%{
+                top:415px;
+                left:500px;
+
+            }
+            100%{
+                top:0px;
+                left:970px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+         <div class="box_1">
+
+         </div>
+
+         <div class="box_2">
+
+         </div>
+
+         <div id="circle">
+
+         </div>
+
+    </div>
+
+     
+
+</body>
+</html>

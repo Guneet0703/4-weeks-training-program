@@ -24,9 +24,9 @@ To strengthen my understanding of HTML by learning forms and tables and applying
 | Sr. No. | Task                                                                    | File Name     |
 | ------: | ----------------------------------------------------------------------- | ------------- |
 |       1 | Recreate the table provided by the instructor                           | `tables.html` |
-|       2 | Recreate the form provided by the instructor                            | `forms.html`  |
-|       3 | Practice different input types and form controls                        | `forms.html`  |
-|       4 | Implement table formatting using `rowspan` and `colspan` where required | `tables.html` |
+|       2 | Recreate the form provided by the instructor                            | `form1.html`  |
+|       3 | Practice different input types and form controls                        | `form.html`  |
+|       4 | Implement table formatting using `rowspan` and `colspan` where required | `table1.html` |
 
 ---
 

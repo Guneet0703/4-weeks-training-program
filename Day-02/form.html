@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Application Form</title>
+</head>
+<body>
+
+    <h1>Job Application</h1>
+
+    <form>
+
+        <label>Name:</label><br><br>
+        <input type="text" name="name"><br>
+
+        <label>Email:</label><br><br>
+        <input type="email" name="email"><br>
+
+        <label>Phone:</label><br><br>
+        <input type="tel" name="phone"><br>
+
+        <label>Resume:</label><br><br>
+        <input type="file" name="resume"><br>
+
+        <label>Experience (years):</label><br><br>
+        <input type="number" name="experience" value="4"><br><br>
+
+        <fieldset>
+           <legend>Skills</legend>
+
+           <input type="checkbox"><br>
+           HTML<br><br>
+
+           <input type="checkbox"><br>
+           CSS<br><br>
+
+           <input type="checkbox"><br>
+            JavaScript
+        </fieldset>
+
+        <br>
+
+        <label>Highest Education:</label><br>
+        <select>
+            <option>High School</option>
+            <option>Diploma</option>
+            <option>Bachelor's Degree</option>
+            <option>Master's Degree</option>
+        </select>
+
+        <br><br>
+
+        <label>Availability:</label><br><br>
+
+        <input type="radio" id="fulltime" name="availability">
+        <label for="fulltime">Full-time</label><br><br>
+
+        <input type="radio" id="parttime" name="availability" checked>
+        <label for="parttime">Part-time</label>
+
+        <br><br>
+
+        <label>Additional Comments:</label><br><br>
+        <textarea rows="4" cols="40"></textarea>
+
+    </form>
+
+</body>
+</html> 
