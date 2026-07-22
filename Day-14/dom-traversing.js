@@ -18,4 +18,4 @@ function traverseDOM() {
 
   console.log("Previous Sibling:");
   console.log(container.lastElementChild.previousElementSibling);
-}
+}s=

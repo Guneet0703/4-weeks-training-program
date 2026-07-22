@@ -31,7 +31,7 @@ To understand JavaScript Event Listeners and learn how to handle user interactio
 | ------: | ------------------------------------------------------------ | ---------------- |
 | 1 | Practice mouse, keyboard, and form events using Event Listeners | `event-listeners.js` |
 | 2 | Develop an Increment and Decrement Counter using JavaScript | `counter.js` |
-| 3 | Practice DOM updates based on user interactions | `event-practice.js` |
+
 
 ---
 
